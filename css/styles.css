@@ -237,7 +237,7 @@ sup {
 }
 
 a {
-  color: #ffc800;
+  color: #ffffff;
   text-decoration: underline;
 }
 a:hover {
@@ -11164,9 +11164,9 @@ header.masthead .masthead-heading {
   margin-left: 0;
   text-align: center;
   color: white;
-  border: 7px solid #e9ecef;
+  border: 7px solid #005186;
   border-radius: 100%;
-  background-color: #ffc800;
+  background-color: #015180;
 }
 .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
   font-size: 10px;
